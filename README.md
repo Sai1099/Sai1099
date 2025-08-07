@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello%20There&reversal=true&textBg=false&fontColor=fffff&desc=my%20name%20is%20sai%20murali%20&descSize=23](https://capsule-render.vercel.app/apitype=shark&height=400&color=gradient&text=Hello%20There&reversal=true&textBg=false&fontColor=fffff&desc=my%20name%20is%20sai%20murali%20&descSize=23)"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=400&color=gradient&text=Hello%20There&reversal=true&textBg=false&fontColor=fffff&desc=my%20name%20is%20sai%20murali%20&descSize=23"/>
 </p>
 **Sai1099/Sai1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
