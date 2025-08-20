@@ -5,3 +5,6 @@
 </p>
 
 
+## About Me
+
+I am a curious and passionate learner who loves building impactful projects and exploring cutting-edge technologies. My interests span across data engineering, backend systems, and applied AI, where I enjoy turning ideas into practical solutions. I’ve contributed to developer communities like **Google Developer Student Clubs (GDSC)**, where I collaborated, learned, and shared knowledge with peers. I thrive on experimenting with new tools, simplifying complex workflows, and creating projects that bring real value to users. Beyond tech, I believe in continuous growth, collaboration, and making innovation accessible for everyone.
