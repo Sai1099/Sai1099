@@ -9,4 +9,14 @@
 
 I am a curious and passionate learner who loves building impactful projects and exploring cutting-edge technologies. My interests span across data engineering, backend systems, and applied AI, where I enjoy turning ideas into practical solutions. I’ve contributed to developer communities like **Google Developer Student Clubs (GDSC)**, where I collaborated, learned, and shared knowledge with peers. I thrive on experimenting with new tools, simplifying complex workflows, and creating projects that bring real value to users. Beyond tech, I believe in continuous growth, collaboration, and making innovation accessible for everyone.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai1099)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai1099)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
