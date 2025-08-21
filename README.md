@@ -119,7 +119,7 @@ I am a curious and passionate learner who loves building impactful projects and 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[your-twitter-link](https://x.com/Sai10996247)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="[your-linkedin-link](https://www.linkedin.com/in/sai-murali-564900287/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Sai10996247"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sai-murali-564900287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
